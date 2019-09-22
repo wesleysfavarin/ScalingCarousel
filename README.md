@@ -136,4 +136,4 @@ Pete Smith, peadar81@gmail.com
 
 ## License
 
-ScalingCarousel is available under the MIT license. See the LICENSE file for more info.
+ScalingCarousel is available under the MIT license. See the LICENSE file for more info.000
